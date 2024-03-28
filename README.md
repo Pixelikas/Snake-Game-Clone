@@ -1,6 +1,6 @@
 # Snake-Game-Clone
 A classic Snake Game (clone).<br>
-The game was developed using Construct 2 in 2019.<br><br>
+The game was developed using Construct 2 in 2019.<br>
 
 NW.dll needed to run the build.<br>
 https://www.dllme.com/dll/files/nw
